@@ -38,19 +38,19 @@ The goal of this project is to provide a scalable backend solution for employee-
 
 ### 📝 Create Department
 
-![Create Department](screenshots/create-department.png)
+![Create Department](https://github.com/manuka8/E-Commerce-IT3232-Day08/blob/main/day8/employeeapp/screenshots/Screenshot%20(436).png)
 
 ### 📋 View All Departments
 
-![View All Departments](screenshots/view-all-departments.png)
+![View All Departments](https://github.com/manuka8/E-Commerce-IT3232-Day08/blob/main/day8/employeeapp/screenshots/Screenshot%20(437).png)
 
 ### 🔍 View Department by ID
 
-![View By ID](screenshots/view-by-id.png)
+![View By ID](https://github.com/manuka8/E-Commerce-IT3232-Day08/blob/main/day8/employeeapp/screenshots/Screenshot%20(438).png)
 
 ### ❌ Delete Department
 
-![Delete Department](screenshots/delete-department.png)
+![Delete Department]([image.png](https://github.com/manuka8/E-Commerce-IT3232-Day08/blob/main/day8/employeeapp/screenshots/image.png))
 
 ---
 
